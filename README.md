@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning SQL, Python, Pandas, Numpy, Jupyter.
 - 📫 How to reach me at [mail](mailto:"shaurya.gulati.work@gmail.com")
 - 📫 Visit [Tableau Profile](https://public.tableau.com/app/profile/shaurya.gulati)
+- 📫 Find me on [Linkedin](www.linkedin.com/in/shauryagulati7200)
 
 <!---
 shxxryxg/shxxryxg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
